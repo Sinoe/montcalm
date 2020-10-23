@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+
+body{
+    background:red;
+}
+span.date{
+    line-height:1.25rem;
+    display:block;
+}
+@tailwind utilities;
